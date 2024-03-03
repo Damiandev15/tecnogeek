@@ -8,9 +8,9 @@
 </p>
 
 ## About Laravel
-
-NPM INSTALL
-COMPOSER INSTALL
+Npm install
+Composer install
+MYSQL (Laragon o Xampp)
 
 ## Server
 Npm run dev
